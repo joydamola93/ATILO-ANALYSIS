@@ -9,5 +9,5 @@ The Market is growing dynamically and they are facing issue in tracking the sale
 •	Generate reports and make recommendations to the business
 
 # THE DATA
-The data was gotten from codebasishub.com 
+The data was gotten from codebasishub.com. 
 Powerbi and SQL were used for the analysis
