@@ -4,9 +4,8 @@ They supply various type of hardware equipment and they have lot of regional off
 The Market is growing dynamically and they are facing issue in tracking the sales and insights of the business from different region.
 
 # BUSINESS TASK
-•	Design and develop metrics and reports, dashboard and analyses to drive key business decisions
-•	Work with management or stalkholders to prioritize business and information needs
-•	Generate reports and make recommendations to the business
+•	Design and develop metrics and reports, dashboard and analyses to drive key business decisions.
+•	Generating reports and make recommendations to the business
 
 # THE DATA
 The data was gotten from codebasishub.com. 
